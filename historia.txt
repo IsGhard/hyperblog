@@ -1,4 +1,7 @@
 se deben identificar los comandos basicos de git
 para ello platzi es la mejor opcion de trabajar para aprender 
 a desarrollarnos en nustro mundo laboral
+
+Master 1
+
 aprendiendo html y css y crear nuestra pagina web
